@@ -1,15 +1,22 @@
 # SEOAutomationLeica
 
-What are we testing 
+**What are we testing** 
+
 we are mainly testing the below 2 scenarios :
-Scenario 1 : Test to verify that leica geosystems comes up as the first search result when we perform a search with the keyword 'leica geosystems' on bing
-Scenario 2 : Test to verify that leica geosystems country specific website comes up as the top search result when we perform a search with the keyword 'leica geosystems' on country specific bing urls
+
+**Scenario 1 :** Test to verify that leica geosystems comes up as the first search result when we perform a search with the keyword 'leica geosystems' on bing.
+
+**Scenario 2 :** Test to verify that leica geosystems country specific website comes up as the top search result when we perform a search with the keyword 'leica geosystems' on country specific bing urls
 
 **Instructions on how to run the tests:**
 
-Prerequisites:
-Chrome should be installed as the tests have been currently written for chrome only (can extend it to other browsers if i get time)
+**Prerequisites:**
+
+Chrome should be installed as the tests have been currently written for chrome only (can extend it to other browsers if i get time).
+
 Java and maven should be installed
+
+**Steps:**
 
 1) Clone the repo in your local machine 
 
@@ -17,7 +24,7 @@ Java and maven should be installed
 
 3) Change the directory to the path where the project has been cloned
 
-suppose you have extracted it to c drive in your local machine the a command like below has to be written:
+suppose you have cloned it to c drive in your local machine the a command like below has to be written:
 
 cd C:\SEOAutomationLeica
 
