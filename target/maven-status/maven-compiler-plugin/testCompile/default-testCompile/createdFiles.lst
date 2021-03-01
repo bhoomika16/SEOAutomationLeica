@@ -1,0 +1,6 @@
+pages\SearchResultPage.class
+Runner\SearchTest.class
+Glue\BingSearchStepDefinition.class
+Glue\BaseStepDefinition.class
+pages\AbstractPage.class
+pages\HomePage.class

@@ -1,0 +1,530 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2275182100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BingSearchStepDefinition.setUp()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Searching from Bing home page",
+        "description": "",
+        "id": "country-specific-search-functionality-in-bing;searching-from-bing-home-page;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 733511400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BingSearchStepDefinition.TearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3111391000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Bing \"Sweden\" home page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Sweden",
+                  "offset": 17
+                }
+              ],
+              "location": "BingSearchStepDefinition.user_is_on_Bing_home_page(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 82195600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User accepts cookie",
+            "match": {
+              "location": "BingSearchStepDefinition.user_accepts_cookie()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1880229700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User searches for \"leica geosystems\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "leica geosystems",
+                  "offset": 19
+                }
+              ],
+              "location": "BingSearchStepDefinition.user_searches_for(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 514257400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify that \"leica-geosystems.com/sv-se\" comes up as the first search result",
+            "match": {
+              "arguments": [
+                {
+                  "val": "leica-geosystems.com/sv-se",
+                  "offset": 13
+                }
+              ],
+              "location": "BingSearchStepDefinition.verify_that_comes_up_as_the_first_search_result(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1389438000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BingSearchStepDefinition.setUp()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Searching from Bing home page",
+        "description": "",
+        "id": "country-specific-search-functionality-in-bing;searching-from-bing-home-page;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 743011600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BingSearchStepDefinition.TearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3214431000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Bing \"UK\" home page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "UK",
+                  "offset": 17
+                }
+              ],
+              "location": "BingSearchStepDefinition.user_is_on_Bing_home_page(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 106339700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User accepts cookie",
+            "match": {
+              "location": "BingSearchStepDefinition.user_accepts_cookie()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1998208200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User searches for \"leica geosystems\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "leica geosystems",
+                  "offset": 19
+                }
+              ],
+              "location": "BingSearchStepDefinition.user_searches_for(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 591824200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify that \"leica-geosystems.com\" comes up as the first search result",
+            "match": {
+              "arguments": [
+                {
+                  "val": "leica-geosystems.com",
+                  "offset": 13
+                }
+              ],
+              "location": "BingSearchStepDefinition.verify_that_comes_up_as_the_first_search_result(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1367194200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BingSearchStepDefinition.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Searching from Bing home page",
+        "description": "",
+        "id": "country-specific-search-functionality-in-bing;searching-from-bing-home-page;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 709869100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BingSearchStepDefinition.TearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3321938100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Bing \"France\" home page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "France",
+                  "offset": 17
+                }
+              ],
+              "location": "BingSearchStepDefinition.user_is_on_Bing_home_page(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 93701600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User accepts cookie",
+            "match": {
+              "location": "BingSearchStepDefinition.user_accepts_cookie()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1824710100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User searches for \"leica geosystems\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "leica geosystems",
+                  "offset": 19
+                }
+              ],
+              "location": "BingSearchStepDefinition.user_searches_for(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 675555000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify that \"leica-geosystems.com/fr-FR\" comes up as the first search result",
+            "match": {
+              "arguments": [
+                {
+                  "val": "leica-geosystems.com/fr-FR",
+                  "offset": 13
+                }
+              ],
+              "location": "BingSearchStepDefinition.verify_that_comes_up_as_the_first_search_result(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1306167400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BingSearchStepDefinition.setUp()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Searching from Bing home page",
+        "description": "",
+        "id": "country-specific-search-functionality-in-bing;searching-from-bing-home-page;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 714945800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BingSearchStepDefinition.TearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3255283000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Bing \"Germany\" home page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Germany",
+                  "offset": 17
+                }
+              ],
+              "location": "BingSearchStepDefinition.user_is_on_Bing_home_page(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 96891700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User accepts cookie",
+            "match": {
+              "location": "BingSearchStepDefinition.user_accepts_cookie()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1934867900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User searches for \"leica geosystems\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "leica geosystems",
+                  "offset": 19
+                }
+              ],
+              "location": "BingSearchStepDefinition.user_searches_for(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 919271700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify that \"leica-geosystems.com/de-de\" comes up as the first search result",
+            "match": {
+              "arguments": [
+                {
+                  "val": "leica-geosystems.com/de-de",
+                  "offset": 13
+                }
+              ],
+              "location": "BingSearchStepDefinition.verify_that_comes_up_as_the_first_search_result(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Country specific Search Functionality in bing",
+    "description": "",
+    "id": "country-specific-search-functionality-in-bing",
+    "keyword": "Feature",
+    "uri": "CountrySpecificSearch.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1274553900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BingSearchStepDefinition.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Searching from Bing home page",
+        "description": "",
+        "id": "search-functionality-in-bing;searching-from-bing-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 729388500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BingSearchStepDefinition.TearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3886795400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Bing home page",
+            "match": {
+              "location": "BingSearchStepDefinition.user_is_on_Bing_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 112264900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User accepts cookie",
+            "match": {
+              "location": "BingSearchStepDefinition.user_accepts_cookie()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2054702600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User searches for \"leica geosystems\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "leica geosystems",
+                  "offset": 19
+                }
+              ],
+              "location": "BingSearchStepDefinition.user_searches_for(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 708493900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify that \"leica-geosystems.com\" comes up as the first search result",
+            "match": {
+              "arguments": [
+                {
+                  "val": "leica-geosystems.com",
+                  "offset": 13
+                }
+              ],
+              "location": "BingSearchStepDefinition.verify_that_comes_up_as_the_first_search_result(String)"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Search Functionality in bing",
+    "description": "",
+    "id": "search-functionality-in-bing",
+    "keyword": "Feature",
+    "uri": "SearchBing.feature"
+  }
+]
