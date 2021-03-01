@@ -14,19 +14,12 @@ import pages.SearchResultPage;
 
 public class BingSearchStepDefinition extends BaseStepDefinition {
 
-	
-	HashMap<String, String> bingUrls = new HashMap<String, String>();
 	HomePage homePage;
 	SearchResultPage searchResultPage;
 
 	@Before
 	public void setUp() {
 		driver = createDriver();
-		bingUrls.put("Sweden", "https://www.bing.se/");
-		bingUrls.put("UK", "https://www.bing.co.uk/");
-		bingUrls.put("France", "https://www.bing.fr/");
-		bingUrls.put("Germany", "https://www.bing.de/");
-		bingUrls.put("com", "https://www.bing.com/");
 	}
 
 	@Given("^User is on Bing home page$")

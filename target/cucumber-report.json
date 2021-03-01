@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 7311827600,
+              "duration": 7205879500,
               "status": "passed"
             },
             "match": {
@@ -15,13 +15,13 @@
           }
         ],
         "line": 11,
-        "name": "Searching from Bing home page",
+        "name": "Country specific search from Bing home page",
         "description": "",
-        "id": "country-specific-search-functionality-in-bing;searching-from-bing-home-page;;2",
+        "id": "country-specific-search-functionality-in-bing;country-specific-search-from-bing-home-page;;2",
         "after": [
           {
             "result": {
-              "duration": 870308600,
+              "duration": 919837800,
               "status": "passed"
             },
             "match": {
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3536392100,
+              "duration": 3562480600,
               "status": "passed"
             },
             "line": 4,
@@ -55,7 +55,7 @@
           },
           {
             "result": {
-              "duration": 185766500,
+              "duration": 210656700,
               "status": "passed"
             },
             "line": 5,
@@ -67,7 +67,7 @@
           },
           {
             "result": {
-              "duration": 2554256800,
+              "duration": 2162385700,
               "status": "passed"
             },
             "line": 6,
@@ -85,7 +85,7 @@
           },
           {
             "result": {
-              "duration": 545966100,
+              "duration": 315977500,
               "status": "passed"
             },
             "line": 7,
@@ -110,7 +110,7 @@
         "before": [
           {
             "result": {
-              "duration": 1644385900,
+              "duration": 1687190100,
               "status": "passed"
             },
             "match": {
@@ -119,13 +119,13 @@
           }
         ],
         "line": 12,
-        "name": "Searching from Bing home page",
+        "name": "Country specific search from Bing home page",
         "description": "",
-        "id": "country-specific-search-functionality-in-bing;searching-from-bing-home-page;;3",
+        "id": "country-specific-search-functionality-in-bing;country-specific-search-from-bing-home-page;;3",
         "after": [
           {
             "result": {
-              "duration": 831621300,
+              "duration": 839917500,
               "status": "passed"
             },
             "match": {
@@ -138,7 +138,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3440245700,
+              "duration": 3405831800,
               "status": "passed"
             },
             "line": 4,
@@ -159,7 +159,7 @@
           },
           {
             "result": {
-              "duration": 203730600,
+              "duration": 1223703800,
               "status": "passed"
             },
             "line": 5,
@@ -171,7 +171,7 @@
           },
           {
             "result": {
-              "duration": 2227507600,
+              "duration": 2319298200,
               "status": "passed"
             },
             "line": 6,
@@ -189,7 +189,7 @@
           },
           {
             "result": {
-              "duration": 1425435500,
+              "duration": 225770600,
               "status": "passed"
             },
             "line": 7,
@@ -214,7 +214,7 @@
         "before": [
           {
             "result": {
-              "duration": 1674941700,
+              "duration": 1633231400,
               "status": "passed"
             },
             "match": {
@@ -223,13 +223,13 @@
           }
         ],
         "line": 13,
-        "name": "Searching from Bing home page",
+        "name": "Country specific search from Bing home page",
         "description": "",
-        "id": "country-specific-search-functionality-in-bing;searching-from-bing-home-page;;4",
+        "id": "country-specific-search-functionality-in-bing;country-specific-search-from-bing-home-page;;4",
         "after": [
           {
             "result": {
-              "duration": 1229362800,
+              "duration": 882993900,
               "status": "passed"
             },
             "match": {
@@ -242,7 +242,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3765489300,
+              "duration": 3605062500,
               "status": "passed"
             },
             "line": 4,
@@ -263,7 +263,7 @@
           },
           {
             "result": {
-              "duration": 327614700,
+              "duration": 244602100,
               "status": "passed"
             },
             "line": 5,
@@ -275,7 +275,7 @@
           },
           {
             "result": {
-              "duration": 2282572700,
+              "duration": 2032166100,
               "status": "passed"
             },
             "line": 6,
@@ -293,7 +293,7 @@
           },
           {
             "result": {
-              "duration": 230857300,
+              "duration": 790284400,
               "status": "passed"
             },
             "line": 7,
@@ -318,7 +318,7 @@
         "before": [
           {
             "result": {
-              "duration": 1652797000,
+              "duration": 1686635800,
               "status": "passed"
             },
             "match": {
@@ -327,13 +327,13 @@
           }
         ],
         "line": 14,
-        "name": "Searching from Bing home page",
+        "name": "Country specific search from Bing home page",
         "description": "",
-        "id": "country-specific-search-functionality-in-bing;searching-from-bing-home-page;;5",
+        "id": "country-specific-search-functionality-in-bing;country-specific-search-from-bing-home-page;;5",
         "after": [
           {
             "result": {
-              "duration": 864142400,
+              "duration": 1203468200,
               "status": "passed"
             },
             "match": {
@@ -346,7 +346,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3661376400,
+              "duration": 3426769700,
               "status": "passed"
             },
             "line": 4,
@@ -367,7 +367,7 @@
           },
           {
             "result": {
-              "duration": 163723900,
+              "duration": 490177700,
               "status": "passed"
             },
             "line": 5,
@@ -379,7 +379,7 @@
           },
           {
             "result": {
-              "duration": 2575066400,
+              "duration": 2242628000,
               "status": "passed"
             },
             "line": 6,
@@ -397,7 +397,7 @@
           },
           {
             "result": {
-              "duration": 220520600,
+              "duration": 1252101900,
               "status": "passed"
             },
             "line": 7,
@@ -419,7 +419,7 @@
         ]
       }
     ],
-    "name": "Country specific Search Functionality in bing",
+    "name": "Country specific search Functionality in Bing",
     "description": "",
     "id": "country-specific-search-functionality-in-bing",
     "keyword": "Feature",
@@ -432,7 +432,7 @@
         "before": [
           {
             "result": {
-              "duration": 1647347100,
+              "duration": 1665120400,
               "status": "passed"
             },
             "match": {
@@ -447,7 +447,7 @@
         "after": [
           {
             "result": {
-              "duration": 880182200,
+              "duration": 828234600,
               "status": "passed"
             },
             "match": {
@@ -460,7 +460,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3526931300,
+              "duration": 3209497000,
               "status": "passed"
             },
             "line": 4,
@@ -472,7 +472,7 @@
           },
           {
             "result": {
-              "duration": 423442300,
+              "duration": 143571100,
               "status": "passed"
             },
             "line": 5,
@@ -484,7 +484,7 @@
           },
           {
             "result": {
-              "duration": 2035064100,
+              "duration": 2448056300,
               "status": "passed"
             },
             "line": 6,
@@ -502,7 +502,7 @@
           },
           {
             "result": {
-              "duration": 603620700,
+              "duration": 162955300,
               "status": "passed"
             },
             "line": 7,
