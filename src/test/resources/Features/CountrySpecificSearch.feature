@@ -4,7 +4,7 @@ Feature: Country specific search Functionality in Bing
     Given User is on Bing <country> home page
     And User accepts cookie
     When User searches for "leica geosystems"
-    And Verify that <first_search_result> comes up as the first search result
+    Then Verify that <first_search_result> comes up as the first search result
 
     Examples: 
       | country   | first_search_result          |
