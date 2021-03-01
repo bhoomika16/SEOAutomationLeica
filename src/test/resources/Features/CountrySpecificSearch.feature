@@ -1,6 +1,6 @@
 Feature: Country specific search Functionality in Bing
 
-  Scenario Outline: Country specific search from Bing home page
+  Scenario Outline: Test to verify that Leica-geosystems country specific site comes up as the top search result when we search with the keyword Leica-geosystems in country specific bing urls
     Given User is on Bing <country> home page
     And User accepts cookie
     When User searches for "leica geosystems"
