@@ -11,17 +11,17 @@ Prerequisites:
 Chrome should be installed as the tests have been currently written for chrome only (can extend it to other browsers if i get time)
 Java and maven should be installed
 
-1)Clone the repo in your local machine 
+1) Clone the repo in your local machine 
 
-2) open command prompt
+2) Open command prompt
 
-3) change the directory to the path where the project has been cloned
+3) Change the directory to the path where the project has been cloned
 
 suppose you have extracted it to c drive in your local machine the a command like below has to be written:
 
 cd C:\SEOAutomationLeica
 
-4)After the directory gets changed, run the command:
+4) After the directory gets changed, run the command:
 
 mvn clean install
 
