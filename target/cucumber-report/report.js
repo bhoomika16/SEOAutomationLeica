@@ -84,7 +84,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 2275182100,
+  "duration": 7311827600,
   "status": "passed"
 });
 formatter.scenario({
@@ -131,14 +131,14 @@ formatter.match({
   "location": "BingSearchStepDefinition.user_is_on_Bing_home_page(String)"
 });
 formatter.result({
-  "duration": 3111391000,
+  "duration": 3536392100,
   "status": "passed"
 });
 formatter.match({
   "location": "BingSearchStepDefinition.user_accepts_cookie()"
 });
 formatter.result({
-  "duration": 82195600,
+  "duration": 185766500,
   "status": "passed"
 });
 formatter.match({
@@ -151,7 +151,7 @@ formatter.match({
   "location": "BingSearchStepDefinition.user_searches_for(String)"
 });
 formatter.result({
-  "duration": 1880229700,
+  "duration": 2554256800,
   "status": "passed"
 });
 formatter.match({
@@ -164,15 +164,15 @@ formatter.match({
   "location": "BingSearchStepDefinition.verify_that_comes_up_as_the_first_search_result(String)"
 });
 formatter.result({
-  "duration": 514257400,
+  "duration": 545966100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 733511400,
+  "duration": 870308600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1389438000,
+  "duration": 1644385900,
   "status": "passed"
 });
 formatter.scenario({
@@ -219,14 +219,14 @@ formatter.match({
   "location": "BingSearchStepDefinition.user_is_on_Bing_home_page(String)"
 });
 formatter.result({
-  "duration": 3214431000,
+  "duration": 3440245700,
   "status": "passed"
 });
 formatter.match({
   "location": "BingSearchStepDefinition.user_accepts_cookie()"
 });
 formatter.result({
-  "duration": 106339700,
+  "duration": 203730600,
   "status": "passed"
 });
 formatter.match({
@@ -239,7 +239,7 @@ formatter.match({
   "location": "BingSearchStepDefinition.user_searches_for(String)"
 });
 formatter.result({
-  "duration": 1998208200,
+  "duration": 2227507600,
   "status": "passed"
 });
 formatter.match({
@@ -252,15 +252,15 @@ formatter.match({
   "location": "BingSearchStepDefinition.verify_that_comes_up_as_the_first_search_result(String)"
 });
 formatter.result({
-  "duration": 591824200,
+  "duration": 1425435500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 743011600,
+  "duration": 831621300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1367194200,
+  "duration": 1674941700,
   "status": "passed"
 });
 formatter.scenario({
@@ -307,14 +307,14 @@ formatter.match({
   "location": "BingSearchStepDefinition.user_is_on_Bing_home_page(String)"
 });
 formatter.result({
-  "duration": 3321938100,
+  "duration": 3765489300,
   "status": "passed"
 });
 formatter.match({
   "location": "BingSearchStepDefinition.user_accepts_cookie()"
 });
 formatter.result({
-  "duration": 93701600,
+  "duration": 327614700,
   "status": "passed"
 });
 formatter.match({
@@ -327,7 +327,7 @@ formatter.match({
   "location": "BingSearchStepDefinition.user_searches_for(String)"
 });
 formatter.result({
-  "duration": 1824710100,
+  "duration": 2282572700,
   "status": "passed"
 });
 formatter.match({
@@ -340,15 +340,15 @@ formatter.match({
   "location": "BingSearchStepDefinition.verify_that_comes_up_as_the_first_search_result(String)"
 });
 formatter.result({
-  "duration": 675555000,
+  "duration": 230857300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 709869100,
+  "duration": 1229362800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1306167400,
+  "duration": 1652797000,
   "status": "passed"
 });
 formatter.scenario({
@@ -395,14 +395,14 @@ formatter.match({
   "location": "BingSearchStepDefinition.user_is_on_Bing_home_page(String)"
 });
 formatter.result({
-  "duration": 3255283000,
+  "duration": 3661376400,
   "status": "passed"
 });
 formatter.match({
   "location": "BingSearchStepDefinition.user_accepts_cookie()"
 });
 formatter.result({
-  "duration": 96891700,
+  "duration": 163723900,
   "status": "passed"
 });
 formatter.match({
@@ -415,7 +415,7 @@ formatter.match({
   "location": "BingSearchStepDefinition.user_searches_for(String)"
 });
 formatter.result({
-  "duration": 1934867900,
+  "duration": 2575066400,
   "status": "passed"
 });
 formatter.match({
@@ -428,11 +428,11 @@ formatter.match({
   "location": "BingSearchStepDefinition.verify_that_comes_up_as_the_first_search_result(String)"
 });
 formatter.result({
-  "duration": 919271700,
+  "duration": 220520600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 714945800,
+  "duration": 864142400,
   "status": "passed"
 });
 formatter.uri("SearchBing.feature");
@@ -444,7 +444,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 1274553900,
+  "duration": 1647347100,
   "status": "passed"
 });
 formatter.scenario({
@@ -479,14 +479,14 @@ formatter.match({
   "location": "BingSearchStepDefinition.user_is_on_Bing_home_page()"
 });
 formatter.result({
-  "duration": 3886795400,
+  "duration": 3526931300,
   "status": "passed"
 });
 formatter.match({
   "location": "BingSearchStepDefinition.user_accepts_cookie()"
 });
 formatter.result({
-  "duration": 112264900,
+  "duration": 423442300,
   "status": "passed"
 });
 formatter.match({
@@ -499,7 +499,7 @@ formatter.match({
   "location": "BingSearchStepDefinition.user_searches_for(String)"
 });
 formatter.result({
-  "duration": 2054702600,
+  "duration": 2035064100,
   "status": "passed"
 });
 formatter.match({
@@ -512,11 +512,11 @@ formatter.match({
   "location": "BingSearchStepDefinition.verify_that_comes_up_as_the_first_search_result(String)"
 });
 formatter.result({
-  "duration": 708493900,
+  "duration": 603620700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 729388500,
+  "duration": 880182200,
   "status": "passed"
 });
 });

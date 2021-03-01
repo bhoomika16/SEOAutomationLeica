@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="25" failures="0" name="Runner.SearchTest" time="4.948" errors="0" skipped="0">
+<testsuite tests="25" failures="0" name="Runner.SearchTest" time="4.759" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="15.0.2+7-27"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-15.0.2\bin"/>
     <property name="user.country.format" value="SE"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\bolia\eclipse-workspace\SEOAutomation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\bolia\Documents\SEOAutomationLeica"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\bolia\eclipse-workspace\SEOAutomation"/>
+    <property name="user.dir" value="C:\Users\bolia\Documents\SEOAutomationLeica"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="java.runtime.version" value="15.0.2+7-27"/>
     <property name="os.arch" value="amd64"/>
@@ -61,29 +61,29 @@
     <property name="sun.stdout.encoding" value="cp437"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="| &quot;Sweden&quot; | &quot;leica-geosystems.com/sv-se&quot; |" name="Given User is on Bing &quot;Sweden&quot; home page" time="0.005"/>
+  <testcase classname="| &quot;Sweden&quot; | &quot;leica-geosystems.com/sv-se&quot; |" name="Given User is on Bing &quot;Sweden&quot; home page" time="0.003"/>
   <testcase classname="| &quot;Sweden&quot; | &quot;leica-geosystems.com/sv-se&quot; |" name="And User accepts cookie" time="0"/>
   <testcase classname="| &quot;Sweden&quot; | &quot;leica-geosystems.com/sv-se&quot; |" name="When User searches for &quot;leica geosystems&quot;" time="0"/>
   <testcase classname="| &quot;Sweden&quot; | &quot;leica-geosystems.com/sv-se&quot; |" name="And Verify that &quot;leica-geosystems.com/sv-se&quot; comes up as the first search result" time="0"/>
-  <testcase classname="| &quot;Sweden&quot; | &quot;leica-geosystems.com/sv-se&quot; |" name="| &quot;Sweden&quot; | &quot;leica-geosystems.com/sv-se&quot; |" time="1.234"/>
+  <testcase classname="| &quot;Sweden&quot; | &quot;leica-geosystems.com/sv-se&quot; |" name="| &quot;Sweden&quot; | &quot;leica-geosystems.com/sv-se&quot; |" time="0.925"/>
   <testcase classname="| &quot;UK&quot; | &quot;leica-geosystems.com&quot; |" name="Given User is on Bing &quot;UK&quot; home page" time="0"/>
   <testcase classname="| &quot;UK&quot; | &quot;leica-geosystems.com&quot; |" name="And User accepts cookie" time="0"/>
   <testcase classname="| &quot;UK&quot; | &quot;leica-geosystems.com&quot; |" name="When User searches for &quot;leica geosystems&quot;" time="0"/>
   <testcase classname="| &quot;UK&quot; | &quot;leica-geosystems.com&quot; |" name="And Verify that &quot;leica-geosystems.com&quot; comes up as the first search result" time="0"/>
-  <testcase classname="| &quot;UK&quot; | &quot;leica-geosystems.com&quot; |" name="| &quot;UK&quot; | &quot;leica-geosystems.com&quot; |" time="0.917"/>
+  <testcase classname="| &quot;UK&quot; | &quot;leica-geosystems.com&quot; |" name="| &quot;UK&quot; | &quot;leica-geosystems.com&quot; |" time="0.921"/>
   <testcase classname="| &quot;France&quot; | &quot;leica-geosystems.com/fr-FR&quot; |" name="Given User is on Bing &quot;France&quot; home page" time="0"/>
   <testcase classname="| &quot;France&quot; | &quot;leica-geosystems.com/fr-FR&quot; |" name="And User accepts cookie" time="0"/>
   <testcase classname="| &quot;France&quot; | &quot;leica-geosystems.com/fr-FR&quot; |" name="When User searches for &quot;leica geosystems&quot;" time="0"/>
   <testcase classname="| &quot;France&quot; | &quot;leica-geosystems.com/fr-FR&quot; |" name="And Verify that &quot;leica-geosystems.com/fr-FR&quot; comes up as the first search result" time="0"/>
-  <testcase classname="| &quot;France&quot; | &quot;leica-geosystems.com/fr-FR&quot; |" name="| &quot;France&quot; | &quot;leica-geosystems.com/fr-FR&quot; |" time="0.935"/>
+  <testcase classname="| &quot;France&quot; | &quot;leica-geosystems.com/fr-FR&quot; |" name="| &quot;France&quot; | &quot;leica-geosystems.com/fr-FR&quot; |" time="0.897"/>
   <testcase classname="| &quot;Germany&quot; | &quot;leica-geosystems.com/de-de&quot; |" name="Given User is on Bing &quot;Germany&quot; home page" time="0"/>
   <testcase classname="| &quot;Germany&quot; | &quot;leica-geosystems.com/de-de&quot; |" name="And User accepts cookie" time="0"/>
   <testcase classname="| &quot;Germany&quot; | &quot;leica-geosystems.com/de-de&quot; |" name="When User searches for &quot;leica geosystems&quot;" time="0"/>
   <testcase classname="| &quot;Germany&quot; | &quot;leica-geosystems.com/de-de&quot; |" name="And Verify that &quot;leica-geosystems.com/de-de&quot; comes up as the first search result" time="0"/>
-  <testcase classname="| &quot;Germany&quot; | &quot;leica-geosystems.com/de-de&quot; |" name="| &quot;Germany&quot; | &quot;leica-geosystems.com/de-de&quot; |" time="0.932"/>
+  <testcase classname="| &quot;Germany&quot; | &quot;leica-geosystems.com/de-de&quot; |" name="| &quot;Germany&quot; | &quot;leica-geosystems.com/de-de&quot; |" time="1.183"/>
   <testcase classname="Scenario: Searching from Bing home page" name="Given User is on Bing home page" time="0"/>
   <testcase classname="Scenario: Searching from Bing home page" name="And User accepts cookie" time="0"/>
   <testcase classname="Scenario: Searching from Bing home page" name="When User searches for &quot;leica geosystems&quot;" time="0"/>
   <testcase classname="Scenario: Searching from Bing home page" name="And Verify that &quot;leica-geosystems.com&quot; comes up as the first search result" time="0"/>
-  <testcase classname="Scenario: Searching from Bing home page" name="Scenario: Searching from Bing home page" time="0.925"/>
+  <testcase classname="Scenario: Searching from Bing home page" name="Scenario: Searching from Bing home page" time="0.83"/>
 </testsuite>

@@ -5,5 +5,3 @@ Feature: Search Functionality in bing
     And User accepts cookie
     When User searches for "leica geosystems"
     And Verify that "leica-geosystems.com" comes up as the first search result
-
-  

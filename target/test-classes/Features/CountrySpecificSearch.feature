@@ -1,6 +1,6 @@
-Feature: Country specific Search Functionality in bing
+Feature: Country specific search Functionality in Bing
 
-  Scenario Outline: Searching from Bing home page
+  Scenario Outline: Country specific search from Bing home page
     Given User is on Bing <country> home page
     And User accepts cookie
     When User searches for "leica geosystems"

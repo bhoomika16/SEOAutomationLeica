@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: Runner.SearchTest
 -------------------------------------------------------------------------------
-Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 45.571 sec
+Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 56.694 sec
